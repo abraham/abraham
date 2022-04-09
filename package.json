@@ -7,7 +7,8 @@
     "build": "tsc",
     "format": "prettier --write .",
     "lint": "prettier --check .",
-    "test": "npm run lint"
+    "test": "npm run lint",
+    "update-tweets": "ts-node-script ./scripts/update-tweets.ts"
   },
   "repository": {
     "type": "git",
