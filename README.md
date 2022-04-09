@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, April 9, 2022 at 11:34 PM](https://twitter.com/abraham/status/1512937127327191054)
+>
+> Oh yay. The US is closing in on 1 million COVID deaths.
+>
+> [reply](https://twitter.com/intent/tweet?in_reply_to=1512937127327191054) [retweet](https://twitter.com/intent/retweet?tweet_id=1512937127327191054) [like](https://twitter.com/intent/favorite?tweet_id=1512937127327191054)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, April 9, 2022 at 9:34 PM](https://twitter.com/abraham/status/1512906793936109568)
 >
 > Playing around with displaying tweets on my @github profile. https://t.co/qJF2ii03r6 https://t.co/CBJPTS407l
@@ -86,13 +95,4 @@ https://t.co/zaVLPL3ZQG
 > [reply](https://twitter.com/intent/tweet?in_reply_to=1512133693518880782) [retweet](https://twitter.com/intent/retweet?tweet_id=1512133693518880782) [like](https://twitter.com/intent/favorite?tweet_id=1512133693518880782)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Thursday, April 7, 2022 at 12:58 PM](https://twitter.com/abraham/status/1512052231939444742)
->
-> What's the best hosted kanban app right now?
->
-> [reply](https://twitter.com/intent/tweet?in_reply_to=1512052231939444742) [retweet](https://twitter.com/intent/retweet?tweet_id=1512052231939444742) [like](https://twitter.com/intent/favorite?tweet_id=1512052231939444742)
-
-
-_Last updated Saturday, April 9, 2022 at 11:33 PM._
+_Last updated Saturday, April 9, 2022 at 11:47 PM._
