@@ -68,7 +68,7 @@ async function getTemplate(templatePath: Template) {
 
 async function writeReadmeContents(tweets: string) {
   const compiled = await getTemplate(Template.README);
-  const content = compiled({ tweets });
+  const content = compiled({ tweets, lastUpdated: buildDate(new Date().toISOString()) });
   return writeFile(README, content, 'utf8');
 }
 
