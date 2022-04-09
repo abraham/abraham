@@ -30,6 +30,14 @@ function buildImage(attachments: Tweet['attachments'], media: Media = []) {
   };
 }
 
+function buildDate(date: string) {
+  const options: Intl.DateTimeFormatOptions = {
+    dateStyle: 'full',
+    timeStyle: 'short',
+  };
+  return new Intl.DateTimeFormat('en-US', options).format(new Date(date));
+}
+
 async function buildTweet(tweet: Tweet, user: User, media: Media) {
   const data = {
     avatar: {
@@ -40,7 +48,7 @@ async function buildTweet(tweet: Tweet, user: User, media: Media) {
     tweet: {
       id: tweet.id,
       text: tweet.text,
-      date: new Intl.DateTimeFormat().format(new Date(tweet.created_at!)),
+      date: buildDate(tweet.created_at!),
       url: `https://twitter.com/${user.username}/status/${tweet.id}`,
     },
     user: {
