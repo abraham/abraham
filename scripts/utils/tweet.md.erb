@@ -1,0 +1,7 @@
+> [![<%= avatar.altText %>](<%= avatar.url %>)](<%= user.url %>) [<%= user.name %>](<%= user.url %>) [@<%= user.username %>](<%= user.url%>) [<%= tweet.date %>](<%= tweet.url %>)
+>
+> <%= tweet.text %>
+><% if (image) { %>
+> ![<%= image.altText %>](<%= image.url %>)
+><% } %>
+> [reply](https://twitter.com/intent/tweet?in_reply_to=<%= tweet.id %>) [retweet](https://twitter.com/intent/retweet?tweet_id=<%= tweet.id %>) [like](https://twitter.com/intent/favorite?tweet_id=<%= tweet.id %>)
