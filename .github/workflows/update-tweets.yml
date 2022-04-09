@@ -1,7 +1,7 @@
 name: Update tweets
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/15 * * * *'
 env:
   TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
   TWITTER_USER_ID: ${{ secrets.TWITTER_USER_ID }}
