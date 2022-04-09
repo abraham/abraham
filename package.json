@@ -4,7 +4,9 @@
   "description": "<!-- **abraham/abraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "prettier --write .",
+    "lint": "prettier --check .",
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,8 @@
   },
   "homepage": "https://github.com/abraham/abraham#readme",
   "devDependencies": {
+    "@types/node": "^16.11.26",
+    "prettier": "2.6.2",
     "twitter-api-sdk": "^1.0.3"
   }
 }
