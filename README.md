@@ -1,4 +1,17 @@
-## Recent Tweets
+### Hi there 👋
+
+#### Recent Tweets
+
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, April 9, 2022 at 9:34 PM](https://twitter.com/abraham/status/1512906793936109568)
+>
+> Playing around with displaying tweets on my @github profile. https://t.co/qJF2ii03r6 https://t.co/CBJPTS407l
+>
+> ![No alt text provided](https://pbs.twimg.com/media/FP7smmyXsAgWz8M.jpg)
+>
+> [reply](https://twitter.com/intent/tweet?in_reply_to=1512906793936109568) [retweet](https://twitter.com/intent/retweet?tweet_id=1512906793936109568) [like](https://twitter.com/intent/favorite?tweet_id=1512906793936109568)
+
+
+---
 
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, April 9, 2022 at 2:54 PM](https://twitter.com/abraham/status/1512806168795693068)
 >
@@ -84,13 +97,4 @@ https://t.co/zaVLPL3ZQG
 > [reply](https://twitter.com/intent/tweet?in_reply_to=1512052231939444742) [retweet](https://twitter.com/intent/retweet?tweet_id=1512052231939444742) [like](https://twitter.com/intent/favorite?tweet_id=1512052231939444742)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, April 6, 2022 at 4:35 PM](https://twitter.com/abraham/status/1511744321292312591)
->
-> 100 versions of @GoogleChrome later: What we learned along the way https://t.co/AbPoXoi5w5
->
-> [reply](https://twitter.com/intent/tweet?in_reply_to=1511744321292312591) [retweet](https://twitter.com/intent/retweet?tweet_id=1511744321292312591) [like](https://twitter.com/intent/favorite?tweet_id=1511744321292312591)
-
-
-_Last updated Saturday, April 9, 2022 at 9:26 PM._
+_Last updated Saturday, April 9, 2022 at 9:47 PM._
