@@ -1,0 +1,22 @@
+name: Update tweets
+on:
+  schedule:
+    - cron: '0 * * * *'
+env:
+  TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+  TWITTER_USER_ID: ${{ secrets.TWITTER_USER_ID }}
+jobs:
+  update-tweets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm ci
+      - run: npm run update-tweets
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update tweets
+          branch: main
+          file_pattern: README.md
