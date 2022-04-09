@@ -34,6 +34,7 @@ function buildDate(date: string) {
   const options: Intl.DateTimeFormatOptions = {
     dateStyle: 'full',
     timeStyle: 'short',
+    timeZone: 'UTC',
   };
   return new Intl.DateTimeFormat('en-US', options).format(new Date(date));
 }
