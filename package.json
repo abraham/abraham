@@ -1,0 +1,22 @@
+{
+  "name": "abraham",
+  "version": "0.0.0",
+  "description": "<!-- **abraham/abraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraham/abraham.git"
+  },
+  "author": "Abraham Williams <hi@abrah.am>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraham/abraham/issues"
+  },
+  "homepage": "https://github.com/abraham/abraham#readme",
+  "devDependencies": {
+    "twitter-api-sdk": "^1.0.3"
+  }
+}
