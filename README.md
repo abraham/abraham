@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Sunday, April 10, 2022 at 1:46 AM](https://twitter.com/abraham/status/1512970202069323782)
+>
+> Everyone needs more awwcelots in their lives.
+>
+> [reply](https://twitter.com/intent/tweet?in_reply_to=1512970202069323782) [retweet](https://twitter.com/intent/retweet?tweet_id=1512970202069323782) [like](https://twitter.com/intent/favorite?tweet_id=1512970202069323782)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, April 9, 2022 at 11:34 PM](https://twitter.com/abraham/status/1512937127327191054)
 >
 > Oh yay. The US is closing in on 1 million COVID deaths.
@@ -84,15 +93,4 @@ https://t.co/IdGxYD1taw
 > [reply](https://twitter.com/intent/tweet?in_reply_to=1512221823877926913) [retweet](https://twitter.com/intent/retweet?tweet_id=1512221823877926913) [like](https://twitter.com/intent/favorite?tweet_id=1512221823877926913)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Thursday, April 7, 2022 at 6:22 PM](https://twitter.com/abraham/status/1512133693518880782)
->
-> Senate confirms Jackson as first Black woman on Supreme Court
-
-https://t.co/zaVLPL3ZQG
->
-> [reply](https://twitter.com/intent/tweet?in_reply_to=1512133693518880782) [retweet](https://twitter.com/intent/retweet?tweet_id=1512133693518880782) [like](https://twitter.com/intent/favorite?tweet_id=1512133693518880782)
-
-
-_Last updated Sunday, April 10, 2022 at 1:09 AM._
+_Last updated Sunday, April 10, 2022 at 1:52 AM._
