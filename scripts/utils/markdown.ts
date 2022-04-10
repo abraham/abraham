@@ -2,12 +2,11 @@ import { readFile, writeFile } from 'fs/promises';
 import { template } from 'underscore';
 import { Media, Tweet, User } from './twitter';
 
-enum Template {
-  README = 'README.md.erb',
-  TWEET = 'scripts/utils/tweet.md.erb',
+enum File {
+  README = 'README.md',
+  README_TEMPLATE = 'README.md.erb',
+  TWEET_TEMPLATE = 'scripts/utils/tweet.md.erb',
 }
-
-const README = 'README.md';
 
 function buildImage(attachments: Tweet['attachments'], media: Media = []) {
   if (!attachments || !attachments.media_keys || !attachments.media_keys.length) {
@@ -58,18 +57,18 @@ async function buildTweet(tweet: Tweet, user: User, media: Media) {
       username: user.username,
     },
   };
-  const compiled = await getTemplate(Template.TWEET);
+  const compiled = await getTemplate(File.TWEET_TEMPLATE);
   return compiled(data);
 }
 
-async function getTemplate(templatePath: Template) {
+async function getTemplate(templatePath: File) {
   return template(await readFile(templatePath, 'utf8'));
 }
 
 async function writeReadmeContents(tweets: string) {
-  const compiled = await getTemplate(Template.README);
+  const compiled = await getTemplate(File.README_TEMPLATE);
   const content = compiled({ tweets, lastUpdated: buildDate(new Date().toISOString()) });
-  return writeFile(README, content, 'utf8');
+  return writeFile(File.README, content, 'utf8');
 }
 
 export async function updateReadme(tweets: Tweet[], user: User, media: Media) {
