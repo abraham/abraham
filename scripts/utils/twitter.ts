@@ -20,7 +20,7 @@ export async function getTweets({
     max_results: 10,
     exclude: ['replies', 'retweets'],
     expansions: ['attachments.media_keys', 'author_id'],
-    'tweet.fields': ['author_id', 'created_at', 'entities', 'id'],
+    'tweet.fields': ['author_id', 'created_at', 'entities', 'id', 'public_metrics'],
     'user.fields': ['name', 'username', 'profile_image_url'],
     'media.fields': ['alt_text', 'url'],
   };
