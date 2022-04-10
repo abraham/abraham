@@ -1,5 +1,16 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Sunday, April 10, 2022 at 3:09 PM](https://twitter.com/abraham/status/1513172392851427330)
+>
+> Now with theme aware icons https://t.co/nzD7KLKSMO
+>
+> ![No alt text provided](https://pbs.twimg.com/media/FP_eJ6XWYAUY6iO.jpg)
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1513172392851427330#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1513172392851427330#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1513172392851427330#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1513172392851427330#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1513172392851427330#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1513172392851427330#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Sunday, April 10, 2022 at 1:46 AM](https://twitter.com/abraham/status/1512970202069323782)
 >
 > Everyone needs more awwcelots in their lives.
@@ -24,7 +35,7 @@
 >
 > ![No alt text provided](https://pbs.twimg.com/media/FP7smmyXsAgWz8M.jpg)
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1512906793936109568#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1512906793936109568#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512906793936109568#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512906793936109568#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;8](https://twitter.com/intent/favorite?tweet_id=1512906793936109568#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;8](https://twitter.com/intent/favorite?tweet_id=1512906793936109568#gh-dark-mode-only)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;2](https://twitter.com/intent/tweet?in_reply_to=1512906793936109568#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;2](https://twitter.com/intent/tweet?in_reply_to=1512906793936109568#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512906793936109568#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512906793936109568#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;9](https://twitter.com/intent/favorite?tweet_id=1512906793936109568#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;9](https://twitter.com/intent/favorite?tweet_id=1512906793936109568#gh-dark-mode-only)
 
 
 ---
@@ -84,13 +95,4 @@ https://t.co/IdGxYD1taw
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1512433392528338947#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1512433392528338947#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512433392528338947#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512433392528338947#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;7](https://twitter.com/intent/favorite?tweet_id=1512433392528338947#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;7](https://twitter.com/intent/favorite?tweet_id=1512433392528338947#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Friday, April 8, 2022 at 12:12 AM](https://twitter.com/abraham/status/1512221823877926913)
->
-> Activision Blizzard is giving a thousand game testers full-time jobs and pay bumps https://t.co/iKoMj1meYU via @Verge
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512221823877926913#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512221823877926913#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512221823877926913#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512221823877926913#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512221823877926913#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512221823877926913#gh-dark-mode-only)
-
-
-_Last updated Sunday, April 10, 2022 at 3:07 PM UTC._
+_Last updated Sunday, April 10, 2022 at 3:22 PM UTC._
