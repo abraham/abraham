@@ -38,6 +38,17 @@ function buildDate(date: string) {
   return new Intl.DateTimeFormat('en-US', options).format(new Date(date));
 }
 
+function buildMetrics(metrics: Tweet['public_metrics']) {
+  const { retweet_count, reply_count, like_count, quote_count } = metrics || {};
+  const merged_retweet_count = (retweet_count || 0) + (quote_count || 0);
+
+  return {
+    retweetCount: merged_retweet_count ? ` ${merged_retweet_count}` : '',
+    replyCount: reply_count ? ` ${reply_count}` : '',
+    likeCount: like_count ? ` ${like_count}` : '',
+  };
+}
+
 async function buildTweet(tweet: Tweet, user: User, media: Media) {
   const data = {
     avatar: {
@@ -51,6 +62,7 @@ async function buildTweet(tweet: Tweet, user: User, media: Media) {
       date: buildDate(tweet.created_at!),
       url: `https://twitter.com/${user.username}/status/${tweet.id}`,
     },
+    metrics: buildMetrics(tweet.public_metrics),
     user: {
       name: user.name,
       url: `https://twitter.com/${user.username}`,
