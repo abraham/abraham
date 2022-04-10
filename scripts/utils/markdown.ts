@@ -43,9 +43,9 @@ function buildMetrics(metrics: Tweet['public_metrics']) {
   const merged_retweet_count = (retweet_count || 0) + (quote_count || 0);
 
   return {
-    retweetCount: merged_retweet_count ? ` ${merged_retweet_count}` : '',
-    replyCount: reply_count ? ` ${reply_count}` : '',
-    likeCount: like_count ? ` ${like_count}` : '',
+    retweetCount: merged_retweet_count ? `&ensp;${merged_retweet_count}` : '',
+    replyCount: reply_count ? `&ensp;${reply_count}` : '',
+    likeCount: like_count ? `&ensp;${like_count}` : '',
   };
 }
 
