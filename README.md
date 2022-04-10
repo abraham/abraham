@@ -4,7 +4,7 @@
 >
 > Everyone needs more awwcelots in their lives.
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512970202069323782)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512970202069323782)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1512970202069323782)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512970202069323782#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512970202069323782#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512970202069323782#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512970202069323782#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1512970202069323782#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1512970202069323782#gh-dark-mode-only)
 
 
 ---
@@ -13,7 +13,7 @@
 >
 > Oh yay. The US is closing in on 1 million COVID deaths.
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512937127327191054)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512937127327191054)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512937127327191054)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512937127327191054#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512937127327191054#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512937127327191054#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512937127327191054#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512937127327191054#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512937127327191054#gh-dark-mode-only)
 
 
 ---
@@ -24,7 +24,7 @@
 >
 > ![No alt text provided](https://pbs.twimg.com/media/FP7smmyXsAgWz8M.jpg)
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1512906793936109568)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512906793936109568)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;8](https://twitter.com/intent/favorite?tweet_id=1512906793936109568)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1512906793936109568#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1512906793936109568#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512906793936109568#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512906793936109568#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;8](https://twitter.com/intent/favorite?tweet_id=1512906793936109568#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;8](https://twitter.com/intent/favorite?tweet_id=1512906793936109568#gh-dark-mode-only)
 
 
 ---
@@ -34,7 +34,7 @@
 > MIT graduate students vote to unionize, 66% in favor
 https://t.co/IdGxYD1taw
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512806168795693068)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512806168795693068)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512806168795693068)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512806168795693068#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512806168795693068#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512806168795693068#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512806168795693068#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512806168795693068#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512806168795693068#gh-dark-mode-only)
 
 
 ---
@@ -43,7 +43,7 @@ https://t.co/IdGxYD1taw
 >
 > Starbucks workers vote to unionize 6 more stores, pushing total to 16 https://t.co/zR0YCwGejd
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512627218891034626)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512627218891034626)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1512627218891034626)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512627218891034626#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512627218891034626#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512627218891034626#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512627218891034626#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1512627218891034626#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1512627218891034626#gh-dark-mode-only)
 
 
 ---
@@ -52,7 +52,7 @@ https://t.co/IdGxYD1taw
 >
 > Announcing TypeScript 4.7 Beta with ECMAScript Module Support in Node.js https://t.co/KrktxtyEB7
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512565716360253442)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512565716360253442)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512565716360253442)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512565716360253442#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512565716360253442#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512565716360253442#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512565716360253442#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512565716360253442#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512565716360253442#gh-dark-mode-only)
 
 
 ---
@@ -61,7 +61,7 @@ https://t.co/IdGxYD1taw
 >
 > Announcing Rome Formatter https://t.co/s0LeOcfsxK
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512495834088226819)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512495834088226819)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512495834088226819)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512495834088226819#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512495834088226819#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512495834088226819#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512495834088226819#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512495834088226819#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512495834088226819#gh-dark-mode-only)
 
 
 ---
@@ -70,7 +70,7 @@ https://t.co/IdGxYD1taw
 >
 > Coming soon: More ways to repair your Pixel phone @google https://t.co/O91pMv8x1E
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512462583340621830)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512462583340621830)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1512462583340621830)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512462583340621830#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512462583340621830#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512462583340621830#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512462583340621830#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1512462583340621830#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1512462583340621830#gh-dark-mode-only)
 
 
 ---
@@ -81,7 +81,7 @@ https://t.co/IdGxYD1taw
 >
 > ![No alt text provided](https://pbs.twimg.com/media/FP0-En1XEAkX9lH.jpg)
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1512433392528338947)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512433392528338947)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;7](https://twitter.com/intent/favorite?tweet_id=1512433392528338947)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1512433392528338947#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1512433392528338947#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512433392528338947#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512433392528338947#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;7](https://twitter.com/intent/favorite?tweet_id=1512433392528338947#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;7](https://twitter.com/intent/favorite?tweet_id=1512433392528338947#gh-dark-mode-only)
 
 
 ---
@@ -90,7 +90,7 @@ https://t.co/IdGxYD1taw
 >
 > Activision Blizzard is giving a thousand game testers full-time jobs and pay bumps https://t.co/iKoMj1meYU via @Verge
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512221823877926913)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512221823877926913)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512221823877926913)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512221823877926913#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512221823877926913#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512221823877926913#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512221823877926913#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512221823877926913#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512221823877926913#gh-dark-mode-only)
 
 
-_Last updated Sunday, April 10, 2022 at 3:03 PM UTC._
+_Last updated Sunday, April 10, 2022 at 3:07 PM UTC._
