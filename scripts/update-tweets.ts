@@ -14,11 +14,7 @@ async function main() {
 
   const response = await getTweets({ token: TWITTER_BEARER_TOKEN, userId: TWITTER_USER_ID });
   const { data, includes } = response;
-  const content = await updateReadme(
-    response.data.slice(0, 10),
-    includes.users![0],
-    includes.media
-  );
+  const content = await updateReadme(response.data, includes.users![0], includes.media);
 }
 
 main();
