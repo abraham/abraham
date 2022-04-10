@@ -4,7 +4,7 @@
 >
 > Everyone needs more awwcelots in their lives.
 >
-> [reply](https://twitter.com/intent/tweet?in_reply_to=1512970202069323782) [retweet](https://twitter.com/intent/retweet?tweet_id=1512970202069323782) [like](https://twitter.com/intent/favorite?tweet_id=1512970202069323782)
+> [reply](https://twitter.com/intent/tweet?in_reply_to=1512970202069323782) [retweet](https://twitter.com/intent/retweet?tweet_id=1512970202069323782) [like 1](https://twitter.com/intent/favorite?tweet_id=1512970202069323782)
 
 
 ---
@@ -24,7 +24,7 @@
 >
 > ![No alt text provided](https://pbs.twimg.com/media/FP7smmyXsAgWz8M.jpg)
 >
-> [reply](https://twitter.com/intent/tweet?in_reply_to=1512906793936109568) [retweet](https://twitter.com/intent/retweet?tweet_id=1512906793936109568) [like](https://twitter.com/intent/favorite?tweet_id=1512906793936109568)
+> [reply 1](https://twitter.com/intent/tweet?in_reply_to=1512906793936109568) [retweet](https://twitter.com/intent/retweet?tweet_id=1512906793936109568) [like 8](https://twitter.com/intent/favorite?tweet_id=1512906793936109568)
 
 
 ---
@@ -43,7 +43,7 @@ https://t.co/IdGxYD1taw
 >
 > Starbucks workers vote to unionize 6 more stores, pushing total to 16 https://t.co/zR0YCwGejd
 >
-> [reply](https://twitter.com/intent/tweet?in_reply_to=1512627218891034626) [retweet](https://twitter.com/intent/retweet?tweet_id=1512627218891034626) [like](https://twitter.com/intent/favorite?tweet_id=1512627218891034626)
+> [reply](https://twitter.com/intent/tweet?in_reply_to=1512627218891034626) [retweet](https://twitter.com/intent/retweet?tweet_id=1512627218891034626) [like 2](https://twitter.com/intent/favorite?tweet_id=1512627218891034626)
 
 
 ---
@@ -70,7 +70,7 @@ https://t.co/IdGxYD1taw
 >
 > Coming soon: More ways to repair your Pixel phone @google https://t.co/O91pMv8x1E
 >
-> [reply](https://twitter.com/intent/tweet?in_reply_to=1512462583340621830) [retweet](https://twitter.com/intent/retweet?tweet_id=1512462583340621830) [like](https://twitter.com/intent/favorite?tweet_id=1512462583340621830)
+> [reply](https://twitter.com/intent/tweet?in_reply_to=1512462583340621830) [retweet](https://twitter.com/intent/retweet?tweet_id=1512462583340621830) [like 1](https://twitter.com/intent/favorite?tweet_id=1512462583340621830)
 
 
 ---
@@ -81,7 +81,7 @@ https://t.co/IdGxYD1taw
 >
 > ![No alt text provided](https://pbs.twimg.com/media/FP0-En1XEAkX9lH.jpg)
 >
-> [reply](https://twitter.com/intent/tweet?in_reply_to=1512433392528338947) [retweet](https://twitter.com/intent/retweet?tweet_id=1512433392528338947) [like](https://twitter.com/intent/favorite?tweet_id=1512433392528338947)
+> [reply 1](https://twitter.com/intent/tweet?in_reply_to=1512433392528338947) [retweet](https://twitter.com/intent/retweet?tweet_id=1512433392528338947) [like 7](https://twitter.com/intent/favorite?tweet_id=1512433392528338947)
 
 
 ---
@@ -93,4 +93,4 @@ https://t.co/IdGxYD1taw
 > [reply](https://twitter.com/intent/tweet?in_reply_to=1512221823877926913) [retweet](https://twitter.com/intent/retweet?tweet_id=1512221823877926913) [like](https://twitter.com/intent/favorite?tweet_id=1512221823877926913)
 
 
-_Last updated Sunday, April 10, 2022 at 1:47 PM UTC._
+_Last updated Sunday, April 10, 2022 at 2:03 PM UTC._
