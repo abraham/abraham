@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Tuesday, April 12, 2022 at 2:21 AM](https://twitter.com/abraham/status/1513703878121988103)
+>
+> New Fitbit feature makes AFib detection more accessible @google https://t.co/TZJ0RsPN2M
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1513703878121988103#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1513703878121988103#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")&ensp;1](https://twitter.com/intent/retweet?tweet_id=1513703878121988103#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")&ensp;1](https://twitter.com/intent/retweet?tweet_id=1513703878121988103#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1513703878121988103#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1513703878121988103#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Tuesday, April 12, 2022 at 2:17 AM](https://twitter.com/abraham/status/1513702893869846532)
 >
 > Performance at GitHub: deferring stats with rack.after_reply https://t.co/1izM8l4sJy
@@ -84,13 +93,4 @@ https://t.co/IdGxYD1taw
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512565716360253442#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512565716360253442#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512565716360253442#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512565716360253442#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512565716360253442#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512565716360253442#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Friday, April 8, 2022 at 6:21 PM](https://twitter.com/abraham/status/1512495834088226819)
->
-> Announcing Rome Formatter https://t.co/s0LeOcfsxK
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512495834088226819#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1512495834088226819#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512495834088226819#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1512495834088226819#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512495834088226819#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1512495834088226819#gh-dark-mode-only)
-
-
-_Last updated Tuesday, April 12, 2022 at 2:21 AM UTC._
+_Last updated Tuesday, April 12, 2022 at 2:53 AM UTC._
