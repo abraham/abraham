@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, April 27, 2022 at 12:25 PM](https://twitter.com/abraham/status/1519291528203718657)
+>
+> Outside the Supreme Court, a life of purpose and pain ends in flames   https://t.co/hRODyjOuvm
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1519291528203718657#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1519291528203718657#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1519291528203718657#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1519291528203718657#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1519291528203718657#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1519291528203718657#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, April 27, 2022 at 3:21 AM](https://twitter.com/abraham/status/1519154754697535488)
 >
 > Three more Dane County Starbucks locations file for union representation  https://t.co/FQgxfV8quU
@@ -79,13 +88,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;3](https://twitter.com/intent/tweet?in_reply_to=1516173766119895052#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;3](https://twitter.com/intent/tweet?in_reply_to=1516173766119895052#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1516173766119895052#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1516173766119895052#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;3](https://twitter.com/intent/favorite?tweet_id=1516173766119895052#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;3](https://twitter.com/intent/favorite?tweet_id=1516173766119895052#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Monday, April 18, 2022 at 2:05 AM](https://twitter.com/abraham/status/1515874093215715329)
->
-> Really disappointed @Airbnb's messages website breaks the standard command+num commands for selecting browser tabs in @googlechrome
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1515874093215715329#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1515874093215715329#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1515874093215715329#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1515874093215715329#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1515874093215715329#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1515874093215715329#gh-dark-mode-only)
-
-
-_Last updated Wednesday, April 27, 2022 at 12:09 PM UTC._
+_Last updated Wednesday, April 27, 2022 at 12:29 PM UTC._
