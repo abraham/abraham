@@ -1,5 +1,16 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Thursday, April 28, 2022 at 9:09 PM](https://twitter.com/abraham/status/1519785929673691140)
+>
+> Oklahoma legislature approves Republican bill banning abortions
+
+https://t.co/0fj2s0mtUc
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1519785929673691140#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1519785929673691140#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1519785929673691140#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1519785929673691140#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1519785929673691140#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1519785929673691140#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, April 27, 2022 at 12:25 PM](https://twitter.com/abraham/status/1519291528203718657)
 >
 > Outside the Supreme Court, a life of purpose and pain ends in flames   https://t.co/hRODyjOuvm
@@ -79,13 +90,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1516797790927704065#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1516797790927704065#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1516797790927704065#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1516797790927704065#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;3](https://twitter.com/intent/favorite?tweet_id=1516797790927704065#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;3](https://twitter.com/intent/favorite?tweet_id=1516797790927704065#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Monday, April 18, 2022 at 9:56 PM](https://twitter.com/abraham/status/1516173766119895052)
->
-> "We will begin to sunset Universal Analytics" I guess universal isn't very universal.
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;3](https://twitter.com/intent/tweet?in_reply_to=1516173766119895052#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;3](https://twitter.com/intent/tweet?in_reply_to=1516173766119895052#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1516173766119895052#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1516173766119895052#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;3](https://twitter.com/intent/favorite?tweet_id=1516173766119895052#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;3](https://twitter.com/intent/favorite?tweet_id=1516173766119895052#gh-dark-mode-only)
-
-
-_Last updated Thursday, April 28, 2022 at 9:09 PM UTC._
+_Last updated Thursday, April 28, 2022 at 9:21 PM UTC._
