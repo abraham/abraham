@@ -13,7 +13,7 @@
 >
 > Someone should start a podcast about web development bad practices calls Web of Lies
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1527825285600641024#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1527825285600641024#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1527825285600641024#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1527825285600641024#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;3](https://twitter.com/intent/favorite?tweet_id=1527825285600641024#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;3](https://twitter.com/intent/favorite?tweet_id=1527825285600641024#gh-dark-mode-only)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1527825285600641024#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1527825285600641024#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1527825285600641024#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1527825285600641024#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;4](https://twitter.com/intent/favorite?tweet_id=1527825285600641024#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;4](https://twitter.com/intent/favorite?tweet_id=1527825285600641024#gh-dark-mode-only)
 
 
 ---
@@ -92,4 +92,4 @@ https://t.co/NleprPf6KO
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1525105292127744001#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1525105292127744001#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")&ensp;2](https://twitter.com/intent/retweet?tweet_id=1525105292127744001#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")&ensp;2](https://twitter.com/intent/retweet?tweet_id=1525105292127744001#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;13](https://twitter.com/intent/favorite?tweet_id=1525105292127744001#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;13](https://twitter.com/intent/favorite?tweet_id=1525105292127744001#gh-dark-mode-only)
 
 
-_Last updated Saturday, May 21, 2022 at 1:13 PM UTC._
+_Last updated Saturday, May 21, 2022 at 1:28 PM UTC._
