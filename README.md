@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Tuesday, June 21, 2022 at 4:50 PM](https://twitter.com/abraham/status/1539289697444306944)
+>
+> GitHub Copilot is generally available to all developers https://t.co/24y22pH9yz
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1539289697444306944#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1539289697444306944#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1539289697444306944#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1539289697444306944#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;3](https://twitter.com/intent/favorite?tweet_id=1539289697444306944#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;3](https://twitter.com/intent/favorite?tweet_id=1539289697444306944#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Tuesday, June 21, 2022 at 2:32 AM](https://twitter.com/abraham/status/1539073683607674880)
 >
 > Hey @hbomax, how about an Barry/Hacks crossover episode?
@@ -84,13 +93,4 @@ https://t.co/gVkBT9VOwT
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1536790206283661313#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1536790206283661313#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1536790206283661313#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1536790206283661313#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1536790206283661313#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1536790206283661313#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Monday, June 13, 2022 at 9:31 PM](https://twitter.com/abraham/status/1536461281435308032)
->
-> Making popular Ruby packages more secure https://t.co/6BKmiCbG1t
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1536461281435308032#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1536461281435308032#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1536461281435308032#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1536461281435308032#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1536461281435308032#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1536461281435308032#gh-dark-mode-only)
-
-
-_Last updated Tuesday, June 21, 2022 at 4:43 PM UTC._
+_Last updated Tuesday, June 21, 2022 at 5:02 PM UTC._
