@@ -15,7 +15,7 @@ https://t.co/g20Zr37vQ7
 >
 > GitHub Copilot is generally available to all developers https://t.co/24y22pH9yz
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1539289697444306944#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1539289697444306944#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1539289697444306944#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1539289697444306944#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;6](https://twitter.com/intent/favorite?tweet_id=1539289697444306944#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;6](https://twitter.com/intent/favorite?tweet_id=1539289697444306944#gh-dark-mode-only)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1539289697444306944#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1539289697444306944#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1539289697444306944#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1539289697444306944#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;7](https://twitter.com/intent/favorite?tweet_id=1539289697444306944#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;7](https://twitter.com/intent/favorite?tweet_id=1539289697444306944#gh-dark-mode-only)
 
 
 ---
@@ -95,4 +95,4 @@ https://t.co/gVkBT9VOwT
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1537124211751325698#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1537124211751325698#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1537124211751325698#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1537124211751325698#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1537124211751325698#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1537124211751325698#gh-dark-mode-only)
 
 
-_Last updated Wednesday, June 22, 2022 at 11:33 AM UTC._
+_Last updated Wednesday, June 22, 2022 at 11:48 AM UTC._
