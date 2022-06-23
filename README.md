@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Thursday, June 23, 2022 at 5:56 PM](https://twitter.com/abraham/status/1540031098893344769)
+>
+> The @githubuniverse CFP is now open https://t.co/GnGMg9buNW
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1540031098893344769#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1540031098893344769#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1540031098893344769#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1540031098893344769#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1540031098893344769#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1540031098893344769#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, June 22, 2022 at 11:58 PM](https://twitter.com/abraham/status/1539759818730242050)
 >
 > "Oklahoma’s “constitutional carry” law means it’s not illegal to carry an [...] AR-15 with a loaded magazine"
@@ -95,13 +104,4 @@ https://t.co/ylMc90Ekaa
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1538324556514983936#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1538324556514983936#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1538324556514983936#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1538324556514983936#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1538324556514983936#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1538324556514983936#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, June 18, 2022 at 12:17 PM](https://twitter.com/abraham/status/1538133750139301889)
->
-> Lerna 5.1 — New website, new guides, new Lerna example repo, distributed caching support and speed! by @juristr https://t.co/zGQXHd2cSO
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1538133750139301889#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1538133750139301889#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")&ensp;2](https://twitter.com/intent/retweet?tweet_id=1538133750139301889#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")&ensp;2](https://twitter.com/intent/retweet?tweet_id=1538133750139301889#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;11](https://twitter.com/intent/favorite?tweet_id=1538133750139301889#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;11](https://twitter.com/intent/favorite?tweet_id=1538133750139301889#gh-dark-mode-only)
-
-
-_Last updated Thursday, June 23, 2022 at 5:50 PM UTC._
+_Last updated Thursday, June 23, 2022 at 6:05 PM UTC._
