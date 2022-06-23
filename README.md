@@ -1,5 +1,18 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, June 22, 2022 at 11:58 PM](https://twitter.com/abraham/status/1539759818730242050)
+>
+> "Oklahoma’s “constitutional carry” law means it’s not illegal to carry an [...] AR-15 with a loaded magazine"
+
+"He was arrested, [...] in possession of an over .45-caliber firearm and brass knuckles, both of which are illegal in Oklahoma."
+
+https://t.co/BZBd2nSQLH
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1539759818730242050#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1539759818730242050#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1539759818730242050#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1539759818730242050#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1539759818730242050#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1539759818730242050#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, June 22, 2022 at 11:32 PM](https://twitter.com/abraham/status/1539753246130143232)
 >
 > "In total, we’ve seen close to 20 million unique user agent strings visiting GitHub in 2022 alone."
@@ -91,14 +104,4 @@ https://t.co/ylMc90Ekaa
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1538133750139301889#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1538133750139301889#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")&ensp;2](https://twitter.com/intent/retweet?tweet_id=1538133750139301889#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")&ensp;2](https://twitter.com/intent/retweet?tweet_id=1538133750139301889#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;11](https://twitter.com/intent/favorite?tweet_id=1538133750139301889#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;11](https://twitter.com/intent/favorite?tweet_id=1538133750139301889#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Thursday, June 16, 2022 at 11:05 PM](https://twitter.com/abraham/status/1537572015737036805)
->
-> Wisconsin GOP bans media from attending statewide ‘election integrity’ tour kickoff in Onalaska
-https://t.co/gVkBT9VOwT
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1537572015737036805#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1537572015737036805#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1537572015737036805#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1537572015737036805#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1537572015737036805#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1537572015737036805#gh-dark-mode-only)
-
-
-_Last updated Wednesday, June 22, 2022 at 11:47 PM UTC._
+_Last updated Thursday, June 23, 2022 at 12:13 AM UTC._
