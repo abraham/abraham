@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Thursday, August 18, 2022 at 1:32 AM](https://twitter.com/abraham/status/1560077077872869376)
+>
+> FDA moves to make over-the-counter hearing aids available to millions https://t.co/t818PYpM51
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1560077077872869376#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1560077077872869376#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")&ensp;1](https://twitter.com/intent/retweet?tweet_id=1560077077872869376#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")&ensp;1](https://twitter.com/intent/retweet?tweet_id=1560077077872869376#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1560077077872869376#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1560077077872869376#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, August 17, 2022 at 9:38 PM](https://twitter.com/abraham/status/1560018190901592066)
 >
 > Community in times of need: @devfest_ukraine https://t.co/dYrSF5sBVe
@@ -81,13 +90,4 @@ https://t.co/98NRhOnNIb
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1558183474481270786#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1558183474481270786#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1558183474481270786#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1558183474481270786#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1558183474481270786#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1558183474481270786#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, August 10, 2022 at 3:48 PM](https://twitter.com/abraham/status/1557393573804376064)
->
-> Exclusive: Google Fiber plans 5-state growth spurt, biggest since https://t.co/fCjZh4uUVU
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1557393573804376064#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1557393573804376064#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1557393573804376064#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1557393573804376064#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1557393573804376064#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1557393573804376064#gh-dark-mode-only)
-
-
-_Last updated Thursday, August 18, 2022 at 1:10 AM UTC._
+_Last updated Thursday, August 18, 2022 at 1:54 AM UTC._
