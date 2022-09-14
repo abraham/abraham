@@ -23,4 +23,4 @@ jobs:
           commit_message: Update tweets
           branch: main
           file_pattern: README.md
-          commit_author:
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
