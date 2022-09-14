@@ -17,7 +17,7 @@ export async function getTweets({
 }): Promise<DataAndIncludes> {
   const client = new Client(token);
   const config: TwitterParams<usersIdTweets> = {
-    max_results: 10,
+    max_results: 5,
     exclude: ['replies', 'retweets'],
     expansions: ['attachments.media_keys', 'author_id'],
     'tweet.fields': ['author_id', 'created_at', 'entities', 'id', 'public_metrics'],
