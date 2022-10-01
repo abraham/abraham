@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, October 1, 2022 at 8:20 PM](https://twitter.com/abraham/status/1576306153440841730)
+>
+> Ten Years of TypeScript https://t.co/ExoDs1NZwy
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1576306153440841730#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1576306153440841730#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1576306153440841730#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1576306153440841730#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1576306153440841730#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1576306153440841730#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, October 1, 2022 at 5:01 PM](https://twitter.com/abraham/status/1576255922812637184)
 >
 > Pixel Buds battery life does not age well. They  now go from 100% to dead in 90 minutes.
@@ -34,13 +43,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1575532664010186752#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1575532664010186752#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1575532664010186752#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1575532664010186752#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;5](https://twitter.com/intent/favorite?tweet_id=1575532664010186752#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;5](https://twitter.com/intent/favorite?tweet_id=1575532664010186752#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, September 28, 2022 at 12:09 AM](https://twitter.com/abraham/status/1574914060730114049)
->
-> Google Fiber: Fast Forward: The future is multi-gig https://t.co/U9sBBn7Cbz
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1574914060730114049#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1574914060730114049#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1574914060730114049#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1574914060730114049#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1574914060730114049#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1574914060730114049#gh-dark-mode-only)
-
-
-_Last updated Saturday, October 1, 2022 at 8:03 PM UTC._
+_Last updated Saturday, October 1, 2022 at 8:23 PM UTC._
