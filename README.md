@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, October 22, 2022 at 3:07 AM](https://twitter.com/abraham/status/1583656297378955264)
+>
+> State of CSS 2022 by @argyleink https://t.co/vJKho2p8WC
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1583656297378955264#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1583656297378955264#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")&ensp;1](https://twitter.com/intent/retweet?tweet_id=1583656297378955264#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")&ensp;1](https://twitter.com/intent/retweet?tweet_id=1583656297378955264#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1583656297378955264#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;2](https://twitter.com/intent/favorite?tweet_id=1583656297378955264#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, October 22, 2022 at 1:15 AM](https://twitter.com/abraham/status/1583627987924430848)
 >
 > --watch coming to @nodejs  https://t.co/WgNtMUIkGL
@@ -38,17 +47,4 @@ https://t.co/3jwqCbsBi2
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1583455836734574598#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1583455836734574598#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1583455836734574598#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1583455836734574598#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1583455836734574598#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1583455836734574598#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Thursday, October 20, 2022 at 10:28 PM](https://twitter.com/abraham/status/1583223552505176065)
->
-> Documents detail plans to gut Twitter’s workforce
-
-https://t.co/EKTxIR6841
-
-"Musk told prospective investors in his deal to buy the company that he planned to get rid of nearly 75 percent of Twitter’s 7,500 workers"
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1583223552505176065#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1583223552505176065#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")&ensp;2](https://twitter.com/intent/retweet?tweet_id=1583223552505176065#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")&ensp;2](https://twitter.com/intent/retweet?tweet_id=1583223552505176065#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1583223552505176065#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1583223552505176065#gh-dark-mode-only)
-
-
-_Last updated Saturday, October 22, 2022 at 2:37 AM UTC._
+_Last updated Saturday, October 22, 2022 at 3:29 AM UTC._
