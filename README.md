@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Sunday, October 23, 2022 at 7:55 PM](https://twitter.com/abraham/status/1584272426006851584)
+>
+> I just realized the Walmart logo is an anus
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1584272426006851584#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1584272426006851584#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1584272426006851584#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1584272426006851584#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1584272426006851584#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1584272426006851584#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Sunday, October 23, 2022 at 9:36 AM](https://twitter.com/abraham/status/1584116479930220545)
 >
 > Open Source Podcasting Client (Pocket Casts) https://t.co/vM7A7e6asQ via @photomatt
@@ -36,15 +45,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;3](https://twitter.com/intent/tweet?in_reply_to=1583513127421087746#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;3](https://twitter.com/intent/tweet?in_reply_to=1583513127421087746#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")&ensp;1](https://twitter.com/intent/retweet?tweet_id=1583513127421087746#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")&ensp;1](https://twitter.com/intent/retweet?tweet_id=1583513127421087746#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;10](https://twitter.com/intent/favorite?tweet_id=1583513127421087746#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;10](https://twitter.com/intent/favorite?tweet_id=1583513127421087746#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Friday, October 21, 2022 at 4:50 PM](https://twitter.com/abraham/status/1583500909253779467)
->
-> Mar-a-Lago classified papers held U.S. secrets about Iran and China
-
-https://t.co/3jwqCbsBi2
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;2](https://twitter.com/intent/tweet?in_reply_to=1583500909253779467#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;2](https://twitter.com/intent/tweet?in_reply_to=1583500909253779467#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1583500909253779467#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1583500909253779467#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1583500909253779467#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1583500909253779467#gh-dark-mode-only)
-
-
-_Last updated Sunday, October 23, 2022 at 7:48 PM UTC._
+_Last updated Sunday, October 23, 2022 at 8:04 PM UTC._
