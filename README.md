@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Saturday, November 5, 2022 at 12:11 AM](https://twitter.com/abraham/status/1588685363903860738)
+>
+> Twitter layoffs worry election officials, politicians https://t.co/8DLOA7GEUu
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1588685363903860738#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1588685363903860738#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1588685363903860738#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1588685363903860738#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1588685363903860738#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1588685363903860738#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Friday, November 4, 2022 at 8:04 PM](https://twitter.com/abraham/status/1588623204133634049)
 >
 > Has anyone started a time until serious downtown counter?
@@ -34,13 +43,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1588228860872740866#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1588228860872740866#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1588228860872740866#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1588228860872740866#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1588228860872740866#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1588228860872740866#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, November 2, 2022 at 11:24 PM](https://twitter.com/abraham/status/1587948708678729729)
->
-> Now that Credit Karma is owned by Intuit, what are good alternatives? Credit Sesame, WalletHub, and NerdWallet seem pop up a lot.
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1587948708678729729#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1587948708678729729#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1587948708678729729#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1587948708678729729#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1587948708678729729#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1587948708678729729#gh-dark-mode-only)
-
-
-_Last updated Friday, November 4, 2022 at 11:48 PM UTC._
+_Last updated Saturday, November 5, 2022 at 12:17 AM UTC._
