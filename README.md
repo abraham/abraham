@@ -1,5 +1,14 @@
 ## Recent Tweets
 
+> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, November 16, 2022 at 6:54 PM](https://twitter.com/abraham/status/1592954373013131266)
+>
+> A better way to search, navigate, and understand code on GitHub https://t.co/kepQO6dK16
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1592954373013131266#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1592954373013131266#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1592954373013131266#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1592954373013131266#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1592954373013131266#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1592954373013131266#gh-dark-mode-only)
+
+
+---
+
 > [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Wednesday, November 16, 2022 at 12:17 AM](https://twitter.com/abraham/status/1592673266405367809)
 >
 > Activision Blizzard Is Trying to Stop a Union Vote At Its Albany Office https://t.co/cYWyPovmht via @vice
@@ -34,13 +43,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1592006255354466304#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://twitter.com/intent/tweet?in_reply_to=1592006255354466304#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1592006255354466304#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1592006255354466304#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1592006255354466304#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")&ensp;1](https://twitter.com/intent/favorite?tweet_id=1592006255354466304#gh-dark-mode-only)
 
 
----
-
-> [![Abraham Williams's avatar](https://pbs.twimg.com/profile_images/897079141719195648/_mvh-QJH_mini.jpg)](https://twitter.com/abraham) [Abraham Williams](https://twitter.com/abraham) [@abraham](https://twitter.com/abraham) [Sunday, November 13, 2022 at 2:49 AM](https://twitter.com/abraham/status/1591624142885126145)
->
-> Tracking which 2020 election deniers are winning, losing in the midterms https://t.co/6KhB1A5WaQ
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1591624142885126145#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://twitter.com/intent/tweet?in_reply_to=1591624142885126145#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1591624142885126145#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only "Retweet")](https://twitter.com/intent/retweet?tweet_id=1591624142885126145#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1591624142885126145#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only "Like")](https://twitter.com/intent/favorite?tweet_id=1591624142885126145#gh-dark-mode-only)
-
-
-_Last updated Wednesday, November 16, 2022 at 6:49 PM UTC._
+_Last updated Wednesday, November 16, 2022 at 7:03 PM UTC._
