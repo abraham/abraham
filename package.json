@@ -24,7 +24,7 @@
     "@tsconfig/node16": "^1.0.3",
     "@types/node": "^16.18.21",
     "@types/underscore": "^1.11.4",
-    "prettier": "2.8.4",
+    "prettier": "2.8.7",
     "ts-node": "^10.8.2",
     "twitter-api-sdk": "^1.2.1",
     "typescript": "^5.0.2",
