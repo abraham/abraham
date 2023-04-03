@@ -27,7 +27,7 @@
     "prettier": "2.8.7",
     "ts-node": "^10.8.2",
     "twitter-api-sdk": "^1.2.1",
-    "typescript": "^5.0.2",
+    "typescript": "^5.0.3",
     "underscore": "^1.13.6"
   }
 }
