@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/abraham/abraham#readme",
   "devDependencies": {
-    "@tsconfig/node16": "^1.0.4",
+    "@tsconfig/node16": "^16.1.1",
     "@types/node": "^16.18.21",
     "@types/underscore": "^1.11.8",
     "prettier": "3.0.2",
