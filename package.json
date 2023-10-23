@@ -23,7 +23,7 @@
   "devDependencies": {
     "@tsconfig/node20": "^20.1.2",
     "@types/node": "^20.6.0",
-    "@types/underscore": "^1.11.9",
+    "@types/underscore": "^1.11.12",
     "prettier": "3.0.3",
     "ts-node": "^10.8.2",
     "twitter-api-sdk": "^1.2.1",
