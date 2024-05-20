@@ -22,7 +22,7 @@
   "homepage": "https://github.com/abraham/abraham#readme",
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
-    "@types/node": "^20.12.11",
+    "@types/node": "^20.12.12",
     "@types/underscore": "^1.11.15",
     "prettier": "3.2.5",
     "ts-node": "^10.9.2",
