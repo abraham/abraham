@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: 20
       - run: npm ci
-      - run: npm run update-tweets
+      - run: npm run update-statuses
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update statuses
