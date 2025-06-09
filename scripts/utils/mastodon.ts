@@ -48,7 +48,7 @@ export async function getStatuses({
   }
 
   return {
-    data: statuses,
+    data: statuses.slice(0, 5),
     account: account,
   };
 }
