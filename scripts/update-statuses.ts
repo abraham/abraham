@@ -16,10 +16,10 @@ async function main() {
     throw new Error('MASTODON_ACCOUNT_ID is not defined');
   }
 
-  const response = await getStatuses({ 
-    accessToken: MASTODON_ACCESS_TOKEN, 
+  const response = await getStatuses({
+    accessToken: MASTODON_ACCESS_TOKEN,
     serverUrl: MASTODON_SERVER_URL,
-    accountId: MASTODON_ACCOUNT_ID
+    accountId: MASTODON_ACCOUNT_ID,
   });
   const { data, account } = response;
   const content = await updateReadme(data, account, []);

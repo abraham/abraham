@@ -32,7 +32,7 @@ export async function getStatuses({
 
   // Get the account info
   const account = await client.v1.accounts.$select(accountId).fetch();
-  
+
   // Get the account's statuses
   const statuses = await client.v1.accounts.$select(accountId).statuses.list({
     limit: 5,
