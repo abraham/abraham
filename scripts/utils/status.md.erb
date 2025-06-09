@@ -1,4 +1,4 @@
-> [![<%= avatar.altText %>](<%= avatar.url %>)](<%= user.url %>) [<%= user.name %>](<%= user.url %>) [@<%= user.username %>](<%= user.url%>) [<%= status.date %>](<%= status.url %>)
+> <a href="<%= user.url %>"><img alt="<%= avatar.altText %>" src="<%= avatar.url %>" height="24" width="24" ></a> [<%= user.name %>](<%= user.url %>) [@<%= user.username %>](<%= user.url%>) [<%= status.date %>](<%= status.url %>)
 >
 > <%= status.text %>
 ><% if (image) { %>
