@@ -1,0 +1,27 @@
+name: Update statuses
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '*/15 * * * *'
+env:
+  MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+  MASTODON_SERVER_URL: ${{ secrets.MASTODON_SERVER_URL }}
+  MASTODON_ACCOUNT_ID: ${{ secrets.MASTODON_ACCOUNT_ID }}
+jobs:
+  update-tweets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npm run update-tweets
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update statuses
+          branch: main
+          file_pattern: README.md
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
