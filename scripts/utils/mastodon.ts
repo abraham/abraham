@@ -34,11 +34,14 @@ export async function getStatuses({
   const account = await client.v1.accounts.$select(accountId).fetch();
 
   // Get the account's statuses
-  const statuses = await client.v1.accounts.$select(accountId).statuses.list({
-    limit: 5,
+  const allStatuses = await client.v1.accounts.$select(accountId).statuses.list({
+    limit: 40,
     excludeReplies: true,
     excludeReblogs: true,
   });
+
+  // Filter to only include public statuses
+  const statuses = allStatuses.filter((status) => status.visibility === 'public');
 
   if (!statuses || statuses.length === 0) {
     throw new Error('No statuses found');
