@@ -1,3 +1,9 @@
 {
-  "extends": "@tsconfig/node20/tsconfig.json"
+  "extends": "@tsconfig/node20/tsconfig.json",
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": ["es2022", "dom"]
+  }
 }

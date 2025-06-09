@@ -1,0 +1,7 @@
+> [![<%= avatar.altText %>](<%= avatar.url %>)](<%= user.url %>) [<%= user.name %>](<%= user.url %>) [@<%= user.username %>](<%= user.url%>) [<%= status.date %>](<%= status.url %>)
+>
+> <%= status.text %>
+><% if (image) { %>
+> ![<%= image.altText %>](<%= image.url %>)
+><% } %>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")<%= metrics.replyCount %>](<%= status.url %>#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")<%= metrics.replyCount %>](<%= status.url %>#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")<%= metrics.boostCount %>](<%= status.url %>#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")<%= metrics.boostCount %>](<%= status.url %>#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")<%= metrics.favoriteCount %>](<%= status.url %>#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")<%= metrics.favoriteCount %>](<%= status.url %>#gh-dark-mode-only)
