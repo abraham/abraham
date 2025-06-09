@@ -1,31 +1,27 @@
 import { readFile, writeFile } from 'fs/promises';
 import { template } from 'underscore';
-import { Media, Tweet, User } from './twitter';
+import { Media, Status, User } from './mastodon';
 
 enum File {
   README = 'README.md',
   README_TEMPLATE = 'README.md.erb',
-  TWEET_TEMPLATE = 'scripts/utils/tweet.md.erb',
+  STATUS_TEMPLATE = 'scripts/utils/status.md.erb',
 }
 
-function buildImage(attachments: Tweet['attachments'], media: Media = []) {
-  if (!attachments || !attachments.media_keys || !attachments.media_keys.length) {
+function buildImage(media_attachments: Status['mediaAttachments'] = []) {
+  if (!media_attachments || !media_attachments.length) {
     return false;
   }
 
-  const mediaKey = attachments.media_keys[0];
-  const mediaItem = media.find((item) => item.media_key === mediaKey);
+  const mediaItem = media_attachments[0];
 
-  if (!mediaItem) {
+  if (!mediaItem || mediaItem.type !== 'image') {
     return false;
   }
-
-  // TODO: Improve types
-  const { alt_text, url } = mediaItem as any;
 
   return {
-    altText: alt_text || 'No alt text provided',
-    url,
+    altText: mediaItem.description || 'No alt text provided',
+    url: mediaItem.url,
   };
 }
 
@@ -38,38 +34,39 @@ function buildDate(date: string) {
   return new Intl.DateTimeFormat('en-US', options).format(new Date(date));
 }
 
-function buildMetrics(metrics: Tweet['public_metrics']) {
-  const { retweet_count, reply_count, like_count, quote_count } = metrics || {};
-  const merged_retweet_count = (retweet_count || 0) + (quote_count || 0);
+function buildMetrics(status: Status) {
+  const reblogsCount = status.reblogsCount || 0;
+  const repliesCount = status.repliesCount || 0;
+  const favouritesCount = status.favouritesCount || 0;
 
   return {
-    retweetCount: merged_retweet_count ? `&ensp;${merged_retweet_count}` : '',
-    replyCount: reply_count ? `&ensp;${reply_count}` : '',
-    likeCount: like_count ? `&ensp;${like_count}` : '',
+    boostCount: reblogsCount ? `&ensp;${reblogsCount}` : '',
+    replyCount: repliesCount ? `&ensp;${repliesCount}` : '',
+    favoriteCount: favouritesCount ? `&ensp;${favouritesCount}` : '',
   };
 }
 
-async function buildTweet(tweet: Tweet, user: User, media: Media) {
+async function buildStatus(status: Status, user: User, media: Media) {
   const data = {
     avatar: {
-      altText: `${user.name}'s avatar`,
-      url: user.profile_image_url?.replace('_normal', '_mini'),
+      altText: `${user.displayName}'s avatar`,
+      url: user.avatar,
     },
-    image: buildImage(tweet.attachments, media),
-    tweet: {
-      id: tweet.id,
-      text: tweet.text,
-      date: buildDate(tweet.created_at!),
-      url: `https://twitter.com/${user.username}/status/${tweet.id}`,
+    image: buildImage(status.mediaAttachments),
+    status: {
+      id: status.id,
+      text: status.content.replace(/<[^>]*>/g, ''), // Strip HTML tags from Mastodon content
+      date: buildDate(status.createdAt),
+      url: status.url || '',
     },
-    metrics: buildMetrics(tweet.public_metrics),
+    metrics: buildMetrics(status),
     user: {
-      name: user.name,
-      url: `https://twitter.com/${user.username}`,
+      name: user.displayName,
+      url: user.url || '',
       username: user.username,
     },
   };
-  const compiled = await getTemplate(File.TWEET_TEMPLATE);
+  const compiled = await getTemplate(File.STATUS_TEMPLATE);
   return compiled(data);
 }
 
@@ -77,15 +74,15 @@ async function getTemplate(templatePath: File) {
   return template(await readFile(templatePath, 'utf8'));
 }
 
-async function writeReadmeContents(tweets: string) {
+async function writeReadmeContents(statuses: string) {
   const compiled = await getTemplate(File.README_TEMPLATE);
-  const content = compiled({ tweets, lastUpdated: buildDate(new Date().toISOString()) });
+  const content = compiled({ statuses, lastUpdated: buildDate(new Date().toISOString()) });
   return writeFile(File.README, content, 'utf8');
 }
 
-export async function updateReadme(tweets: Tweet[], user: User, media: Media) {
-  const tweetList = tweets.map((tweet) => buildTweet(tweet, user, media));
-  const renderedTweets = await Promise.all(tweetList);
-  await writeReadmeContents(renderedTweets.join('\n\n---\n\n'));
-  return tweetList;
+export async function updateReadme(statuses: Status[], user: User, media: Media) {
+  const statusList = statuses.map((status) => buildStatus(status, user, media));
+  const renderedStatuses = await Promise.all(statusList);
+  await writeReadmeContents(renderedStatuses.join('\n\n---\n\n'));
+  return statusList;
 }

@@ -8,7 +8,8 @@
     "format": "prettier --write .",
     "lint": "prettier --check .",
     "test": "npm run lint",
-    "update-tweets": "ts-node-script ./scripts/update-tweets.ts"
+    "update-tweets": "ts-node-script ./scripts/update-tweets.ts",
+    "update-statuses": "ts-node-script ./scripts/update-statuses.ts"
   },
   "repository": {
     "type": "git",
@@ -29,5 +30,8 @@
     "twitter-api-sdk": "^1.2.1",
     "typescript": "^5.8.2",
     "underscore": "^1.13.7"
+  },
+  "dependencies": {
+    "masto": "^7.1.0"
   }
 }
