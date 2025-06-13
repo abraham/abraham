@@ -13,16 +13,27 @@ function buildImage(media_attachments: Status['mediaAttachments'] = []) {
     return false;
   }
 
-  const mediaItem = media_attachments[0];
+  // Filter to only image attachments
+  const imageAttachments = media_attachments.filter((item) => item && item.type === 'image');
 
-  if (!mediaItem || mediaItem.type !== 'image') {
+  if (!imageAttachments.length) {
     return false;
   }
 
-  return {
+  // For single image, return object for backward compatibility
+  if (imageAttachments.length === 1) {
+    const mediaItem = imageAttachments[0];
+    return {
+      altText: mediaItem.description || 'No alt text provided',
+      url: mediaItem.url,
+    };
+  }
+
+  // For multiple images, return array
+  return imageAttachments.map((mediaItem) => ({
     altText: mediaItem.description || 'No alt text provided',
     url: mediaItem.url,
-  };
+  }));
 }
 
 function buildDate(date: string) {
