@@ -1,4 +1,3 @@
-import { readFile } from 'fs/promises';
 import { updateReadme } from './utils/markdown';
 import { getStatuses } from './utils/mastodon';
 
@@ -24,21 +23,8 @@ async function main() {
   });
   const { data, account } = response;
 
-  // Check if the first status ID already exists in the current README
-  const firstStatusId = data[0].id;
-  try {
-    const currentReadme = await readFile('README.md', 'utf8');
-
-    // If the first status ID is already in the README, don't update
-    if (currentReadme.includes(firstStatusId)) {
-      console.log(`Status ${firstStatusId} already exists in README.md, skipping update.`);
-      return;
-    }
-  } catch (error) {
-    // If README doesn't exist or can't be read, proceed with update
-    console.log('Could not read existing README.md, proceeding with update.');
-  }
-
+  // Always update the README to ensure engagement counts are fresh
+  console.log('Updating README.md with latest statuses and engagement counts.');
   const content = await updateReadme(data, account, []);
 }
 

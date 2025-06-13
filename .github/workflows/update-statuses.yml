@@ -19,7 +19,29 @@ jobs:
           node-version: 20
       - run: npm ci
       - run: npm run update-statuses
+      - name: Check for meaningful changes
+        id: check-changes
+        run: |
+          # Check if README.md has changes other than just the timestamp
+          if git diff --quiet HEAD -- README.md; then
+            echo "No changes to README.md"
+            echo "has-changes=false" >> $GITHUB_OUTPUT
+          else
+            # Get the diff and check if it's only timestamp changes
+            diff_output=$(git diff HEAD -- README.md)
+            # Check if the only changes are to lines containing "Last updated"
+            # Filter out diff headers (---, +++, @@) and look for actual content changes
+            meaningful_changes=$(echo "$diff_output" | grep -E '^[-+][^-+@]' | grep -v -E '_Last updated.*UTC\._')
+            if [ -n "$meaningful_changes" ]; then
+              echo "Meaningful changes detected in README.md"
+              echo "has-changes=true" >> $GITHUB_OUTPUT
+            else
+              echo "Only timestamp changes detected in README.md"
+              echo "has-changes=false" >> $GITHUB_OUTPUT
+            fi
+          fi
       - uses: stefanzweifel/git-auto-commit-action@v5
+        if: steps.check-changes.outputs.has-changes == 'true'
         with:
           commit_message: Update statuses
           branch: main
