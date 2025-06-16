@@ -31,7 +31,7 @@ jobs:
             diff_output=$(git diff HEAD -- README.md)
             # Check if the only changes are to lines containing "Last updated"
             # Filter out diff headers (---, +++, @@) and look for actual content changes
-            meaningful_changes=$(echo "$diff_output" | grep -E '^[-+][^-+@]' | grep -v -E '_Last updated.*UTC\._')
+            meaningful_changes=$(echo "$diff_output" | grep -E '^[-+][^-+@]' | grep -v -E '_Last updated.*UTC\._' || true)
             if [ -n "$meaningful_changes" ]; then
               echo "Meaningful changes detected in README.md"
               echo "has-changes=true" >> $GITHUB_OUTPUT
