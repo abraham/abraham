@@ -1,5 +1,14 @@
 ## Recent Statuses
 
+> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Tuesday, June 24, 2025 at 3:53 PM](https://indieweb.social/@abraham/114739145171673856)
+>
+> Judge Rules Training AI on Authors&#39; Books Is Legal But Pirating Them Is Nothttps://www.404media.co/judge-rules-training-ai-on-authors-books-is-legal-but-pirating-them-is-not/
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/114739145171673856#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/114739145171673856#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/114739145171673856#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/114739145171673856#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/114739145171673856#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/114739145171673856#gh-dark-mode-only)
+
+
+---
+
 > <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Tuesday, June 24, 2025 at 2:47 PM](https://indieweb.social/@abraham/114738886017013903)
 >
 > Wisconsin asylum seeker detained in unprecedented wave of courthouse arrestshttps://wisconsinwatch.org/2025/06/wisconsin-immigration-ice-asylum-arrest-detention-mcfarland/
@@ -36,18 +45,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/114733520707539380#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/114733520707539380#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/114733520707539380#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/114733520707539380#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/114733520707539380#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/114733520707539380#gh-dark-mode-only)
 
 
----
-
-> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Monday, June 23, 2025 at 3:10 PM](https://indieweb.social/@abraham/114733313213061120)
->
-> Nappings
->
-
-> | Image 1 | Image 2 | Image 3 |
-> | --- | --- | --- |
-> | ![No alt text provided](https://cdn.masto.host/indiewebsocial/media_attachments/files/114/733/312/010/184/370/original/e6454ee57a85a625.jpg) | ![No alt text provided](https://cdn.masto.host/indiewebsocial/media_attachments/files/114/733/312/174/968/970/original/7c66d6681d1e902a.jpg) | ![No alt text provided](https://cdn.masto.host/indiewebsocial/media_attachments/files/114/733/312/344/717/457/original/37372c89122c811e.jpg) |
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/114733313213061120#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/114733313213061120#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/114733313213061120#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/114733313213061120#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/114733313213061120#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/114733313213061120#gh-dark-mode-only)
-
-
-_Last updated Tuesday, June 24, 2025 at 2:49 PM UTC._
+_Last updated Tuesday, June 24, 2025 at 4:03 PM UTC._
