@@ -1,5 +1,16 @@
 ## Recent Statuses
 
+> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Saturday, June 28, 2025 at 11:33 PM](https://indieweb.social/@abraham/114763604610351963)
+>
+> 
+>
+> ![Close-up of a purple and yellow daylily in a garden.](https://cdn.masto.host/indiewebsocial/media_attachments/files/114/763/604/267/673/981/original/97cd6529ffe18047.jpg)
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/114763604610351963#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/114763604610351963#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/114763604610351963#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/114763604610351963#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;2](https://indieweb.social/@abraham/114763604610351963#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;2](https://indieweb.social/@abraham/114763604610351963#gh-dark-mode-only)
+
+
+---
+
 > <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Saturday, June 28, 2025 at 1:55 PM](https://indieweb.social/@abraham/114761331177551070)
 >
 > Celebrating two year adoption anniversary
@@ -36,13 +47,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/114756231084723459#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/114756231084723459#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/114756231084723459#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/114756231084723459#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;3](https://indieweb.social/@abraham/114756231084723459#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;3](https://indieweb.social/@abraham/114756231084723459#gh-dark-mode-only)
 
 
----
-
-> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Friday, June 27, 2025 at 4:16 PM](https://indieweb.social/@abraham/114756221851067971)
->
-> Supreme Court limits nationwide orders that have blocked Trump’s birthright citizenship banhttps://wapo.st/45F4zbz #SCOTUS
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/114756221851067971#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/114756221851067971#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/114756221851067971#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/114756221851067971#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/114756221851067971#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/114756221851067971#gh-dark-mode-only)
-
-
-_Last updated Saturday, June 28, 2025 at 9:21 PM UTC._
+_Last updated Saturday, June 28, 2025 at 11:47 PM UTC._
