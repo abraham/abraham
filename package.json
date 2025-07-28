@@ -24,7 +24,7 @@
     "@tsconfig/node20": "^20.1.4",
     "@types/node": "^24.1.0",
     "@types/underscore": "^1.13.0",
-    "prettier": "3.5.3",
+    "prettier": "3.6.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3",
     "underscore": "^1.13.7"
