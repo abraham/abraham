@@ -31,7 +31,7 @@
 >
 > The current state of LLM-driven developmenthttps://blog.tolki.dev/posts/2025/08-07-llms/
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115001023485270188#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115001023485270188#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115001023485270188#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115001023485270188#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115001023485270188#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115001023485270188#gh-dark-mode-only)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115001023485270188#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115001023485270188#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115001023485270188#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115001023485270188#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115001023485270188#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115001023485270188#gh-dark-mode-only)
 
 
 ---
@@ -43,4 +43,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115000062877366078#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115000062877366078#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/115000062877366078#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/115000062877366078#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;2](https://indieweb.social/@abraham/115000062877366078#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;2](https://indieweb.social/@abraham/115000062877366078#gh-dark-mode-only)
 
 
-_Last updated Sunday, August 10, 2025 at 1:31 AM UTC._
+_Last updated Sunday, August 10, 2025 at 6:41 AM UTC._
