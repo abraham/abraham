@@ -1,5 +1,16 @@
 ## Recent Statuses
 
+> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Tuesday, August 19, 2025 at 4:08 PM](https://indieweb.social/@abraham/115056292549491844)
+>
+> Great presentation from Cacie Robichaux on &quot;empowering leadership and innovation in technology&quot;  #DevFeat #DevFestWI
+>
+> ![A woman speaks at a podium in front of a projection screen with a sports theme and a conference banner.](https://cdn.masto.host/indiewebsocial/media_attachments/files/115/056/285/413/549/322/original/ce55f54f20b9ffcd.jpg)
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115056292549491844#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115056292549491844#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115056292549491844#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115056292549491844#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115056292549491844#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115056292549491844#gh-dark-mode-only)
+
+
+---
+
 > <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Monday, August 18, 2025 at 10:43 PM](https://indieweb.social/@abraham/115052182703443947)
 >
 > #Mushroom
@@ -41,13 +52,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115051836549545298#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115051836549545298#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/115051836549545298#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/115051836549545298#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115051836549545298#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115051836549545298#gh-dark-mode-only)
 
 
----
-
-> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Monday, August 18, 2025 at 3:28 PM](https://indieweb.social/@abraham/115050474134530777)
->
-> The Government Just Made it Harder for The Public to Comment on Regulationshttps://www.404media.co/the-government-just-made-it-harder-for-the-public-to-comment-on-regulations/
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115050474134530777#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115050474134530777#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115050474134530777#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115050474134530777#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115050474134530777#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115050474134530777#gh-dark-mode-only)
-
-
-_Last updated Tuesday, August 19, 2025 at 7:03 AM UTC._
+_Last updated Tuesday, August 19, 2025 at 4:23 PM UTC._
