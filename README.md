@@ -1,5 +1,16 @@
 ## Recent Statuses
 
+> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Wednesday, August 27, 2025 at 1:07 PM](https://indieweb.social/@abraham/115100881917168010)
+>
+> Happy Wednesday
+>
+> ![A white German Shepherd dog smiles directly at the camera.](https://cdn.masto.host/indiewebsocial/media_attachments/files/115/100/881/183/733/327/original/7e9bb991f6ed31ad.jpg)
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/115100881917168010#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/115100881917168010#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115100881917168010#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115100881917168010#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;2](https://indieweb.social/@abraham/115100881917168010#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;2](https://indieweb.social/@abraham/115100881917168010#gh-dark-mode-only)
+
+
+---
+
 > <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Wednesday, August 27, 2025 at 11:52 AM](https://indieweb.social/@abraham/115100586601200895)
 >
 > 
@@ -43,15 +54,4 @@ We could go fully remote](https://cdn.masto.host/indiewebsocial/media_attachment
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115098411657325943#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115098411657325943#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115098411657325943#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115098411657325943#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115098411657325943#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115098411657325943#gh-dark-mode-only)
 
 
----
-
-> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Tuesday, August 26, 2025 at 11:02 PM](https://indieweb.social/@abraham/115097558148684269)
->
-> Playing around with collapsing post threads in @meow #Mastodon
->
-> ![A post showing a coiled snake image on a yellow background, and text related to the image.](https://cdn.masto.host/indiewebsocial/media_attachments/files/115/097/553/909/353/547/original/d9016053d809ce82.jpeg)
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115097558148684269#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115097558148684269#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/115097558148684269#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/115097558148684269#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115097558148684269#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115097558148684269#gh-dark-mode-only)
-
-
-_Last updated Wednesday, August 27, 2025 at 12:44 PM UTC._
+_Last updated Wednesday, August 27, 2025 at 1:24 PM UTC._
