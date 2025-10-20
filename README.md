@@ -1,5 +1,14 @@
 ## Recent Statuses
 
+> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Monday, October 20, 2025 at 9:02 PM](https://indieweb.social/@abraham/115408511221070106)
+>
+> BMO stadium in LA added AI to everything and what they got was a worse experience for everyonehttps://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115408511221070106#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115408511221070106#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115408511221070106#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115408511221070106#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115408511221070106#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115408511221070106#gh-dark-mode-only)
+
+
+---
+
 > <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Monday, October 20, 2025 at 6:18 PM](https://indieweb.social/@abraham/115407869513545201)
 >
 > Update on Plans for Privacy Sandbox Technologies (dead)https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/
@@ -34,13 +43,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115402140351072740#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115402140351072740#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115402140351072740#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115402140351072740#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115402140351072740#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115402140351072740#gh-dark-mode-only)
 
 
----
-
-> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Sunday, October 19, 2025 at 12:03 AM](https://indieweb.social/@abraham/115397898512163703)
->
-> I&#39;m constantly amazed at how terrible apps/websites from mega corps are.
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/115397898512163703#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/115397898512163703#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;5](https://indieweb.social/@abraham/115397898512163703#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;5](https://indieweb.social/@abraham/115397898512163703#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;13](https://indieweb.social/@abraham/115397898512163703#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;13](https://indieweb.social/@abraham/115397898512163703#gh-dark-mode-only)
-
-
-_Last updated Monday, October 20, 2025 at 6:23 PM UTC._
+_Last updated Monday, October 20, 2025 at 9:03 PM UTC._
