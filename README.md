@@ -1,5 +1,14 @@
 ## Recent Statuses
 
+> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Sunday, October 26, 2025 at 5:28 PM](https://indieweb.social/@abraham/115441643791066099)
+>
+> Home Assistant Voice Preview Edition Review: Open Source, for Better or Worsehttps://www.matteralpha.com/review/home-assistant-voice-preview-edition-review
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115441643791066099#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115441643791066099#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115441643791066099#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115441643791066099#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115441643791066099#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115441643791066099#gh-dark-mode-only)
+
+
+---
+
 > <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Saturday, October 25, 2025 at 2:39 PM](https://indieweb.social/@abraham/115435317347717464)
 >
 > 🤣 #Fallout 4 Anniversary Edition appears to only be a bundle of existing expansions.
@@ -36,13 +45,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;3](https://indieweb.social/@abraham/115430045205660826#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;3](https://indieweb.social/@abraham/115430045205660826#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;26](https://indieweb.social/@abraham/115430045205660826#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;26](https://indieweb.social/@abraham/115430045205660826#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;14](https://indieweb.social/@abraham/115430045205660826#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;14](https://indieweb.social/@abraham/115430045205660826#gh-dark-mode-only)
 
 
----
-
-> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Friday, October 24, 2025 at 4:09 PM](https://indieweb.social/@abraham/115430009498416978)
->
-> Made in space: Varda’s William Bruey shares plan to build the next great supply chain at TechCrunch Disrupt 2025https://techcrunch.com/2025/10/23/made-in-space-vardas-william-bruey-shares-plan-to-build-the-next-great-supply-chain-at-techcrunch-disrupt-2025/
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115430009498416978#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115430009498416978#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115430009498416978#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115430009498416978#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115430009498416978#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115430009498416978#gh-dark-mode-only)
-
-
-_Last updated Sunday, October 26, 2025 at 5:03 PM UTC._
+_Last updated Sunday, October 26, 2025 at 5:33 PM UTC._
