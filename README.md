@@ -13,7 +13,7 @@
 >
 > The reality of developing #flutter apps: waiting for Google to merge PRs updating dependencies on plugins they manage.
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115442942152621460#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115442942152621460#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115442942152621460#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115442942152621460#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;3](https://indieweb.social/@abraham/115442942152621460#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;3](https://indieweb.social/@abraham/115442942152621460#gh-dark-mode-only)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/115442942152621460#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/115442942152621460#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115442942152621460#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115442942152621460#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;3](https://indieweb.social/@abraham/115442942152621460#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;3](https://indieweb.social/@abraham/115442942152621460#gh-dark-mode-only)
 
 
 ---
@@ -43,4 +43,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115441643791066099#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115441643791066099#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/115441643791066099#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/115441643791066099#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115441643791066099#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115441643791066099#gh-dark-mode-only)
 
 
-_Last updated Monday, October 27, 2025 at 1:55 AM UTC._
+_Last updated Monday, October 27, 2025 at 12:05 PM UTC._
