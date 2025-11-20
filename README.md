@@ -1,5 +1,14 @@
 ## Recent Statuses
 
+> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Thursday, November 20, 2025 at 4:44 PM](https://indieweb.social/@abraham/115583031201372655)
+>
+> &quot;In a move that has confused and angered its users, the r/JoeRogan subreddit has banned all posts about politics. Adding to the confusion, the subreddit’s mods have said that political comments are still allowed, just not posts. “After careful consideration, internal discussion and tons of external feedback we have collectively decided that r/JoeRogan is not the place for politics anymore,” [...]&quot; 😆 https://www.404media.co/joe-rogan-subreddit-bans-political-posts-but-still-wants-free-speech/
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115583031201372655#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115583031201372655#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115583031201372655#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115583031201372655#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115583031201372655#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115583031201372655#gh-dark-mode-only)
+
+
+---
+
 > <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Thursday, November 20, 2025 at 4:17 PM](https://indieweb.social/@abraham/115582922175403659)
 >
 > They should bring back #StarGate Universe back with the original cast. Something with the stasis pods went wrong and they aged getting to the next galaxy.
@@ -36,13 +45,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115576862805409127#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115576862805409127#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115576862805409127#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115576862805409127#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115576862805409127#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115576862805409127#gh-dark-mode-only)
 
 
----
-
-> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Tuesday, November 18, 2025 at 11:29 PM](https://indieweb.social/@abraham/115573298958075149)
->
-> Are you paying/donating money for #mastodon servers (e.g. indieweb.social) or apps (e.g. @meow)? #poll
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;3](https://indieweb.social/@abraham/115573298958075149#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;3](https://indieweb.social/@abraham/115573298958075149#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;8](https://indieweb.social/@abraham/115573298958075149#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;8](https://indieweb.social/@abraham/115573298958075149#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115573298958075149#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115573298958075149#gh-dark-mode-only)
-
-
-_Last updated Thursday, November 20, 2025 at 4:23 PM UTC._
+_Last updated Thursday, November 20, 2025 at 4:51 PM UTC._
