@@ -4,7 +4,7 @@
 >
 > A U.S. citizen says ICE forced open the door to his Minnesota home and removed him in his underwear after a warrantless searchhttps://www.pbs.org/newshour/nation/a-u-s-citizen-says-ice-forced-open-the-door-to-his-minnesota-home-and-removed-him-in-his-underwear-after-a-warrantless-search
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115929686984334753#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115929686984334753#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/115929686984334753#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/115929686984334753#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115929686984334753#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115929686984334753#gh-dark-mode-only)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115929686984334753#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115929686984334753#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;2](https://indieweb.social/@abraham/115929686984334753#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;2](https://indieweb.social/@abraham/115929686984334753#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115929686984334753#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;1](https://indieweb.social/@abraham/115929686984334753#gh-dark-mode-only)
 
 
 ---
@@ -43,4 +43,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/115918089203760573#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/115918089203760573#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/115918089203760573#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;1](https://indieweb.social/@abraham/115918089203760573#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/115918089203760573#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/115918089203760573#gh-dark-mode-only)
 
 
-_Last updated Tuesday, January 20, 2026 at 10:04 PM UTC._
+_Last updated Tuesday, January 20, 2026 at 10:22 PM UTC._
