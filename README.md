@@ -13,7 +13,7 @@
 >
 > Are people finally going to figure out that Discord is not a good community platform? Probably not.
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;4](https://indieweb.social/@abraham/116055195257739202#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;4](https://indieweb.social/@abraham/116055195257739202#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;10](https://indieweb.social/@abraham/116055195257739202#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;10](https://indieweb.social/@abraham/116055195257739202#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;23](https://indieweb.social/@abraham/116055195257739202#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;23](https://indieweb.social/@abraham/116055195257739202#gh-dark-mode-only)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;4](https://indieweb.social/@abraham/116055195257739202#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;4](https://indieweb.social/@abraham/116055195257739202#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;10](https://indieweb.social/@abraham/116055195257739202#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;10](https://indieweb.social/@abraham/116055195257739202#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;24](https://indieweb.social/@abraham/116055195257739202#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;24](https://indieweb.social/@abraham/116055195257739202#gh-dark-mode-only)
 
 
 ---
@@ -43,4 +43,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/116042200306942855#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/116042200306942855#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;31](https://indieweb.social/@abraham/116042200306942855#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;31](https://indieweb.social/@abraham/116042200306942855#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;19](https://indieweb.social/@abraham/116042200306942855#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;19](https://indieweb.social/@abraham/116042200306942855#gh-dark-mode-only)
 
 
-_Last updated Thursday, February 12, 2026 at 2:33 PM UTC._
+_Last updated Thursday, February 12, 2026 at 7:55 PM UTC._
