@@ -27,7 +27,7 @@
     "prettier": "3.8.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
-    "underscore": "^1.13.7"
+    "underscore": "^1.13.8"
   },
   "dependencies": {
     "masto": "^7.10.1"
