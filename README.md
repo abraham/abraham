@@ -4,7 +4,7 @@
 >
 > Pentagon approves OpenAI safety red lines after dumping Anthropichttps://www.axios.com/2026/02/27/pentagon-openai-safety-red-lines-anthropic
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/116149134615058680#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/116149134615058680#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/116149134615058680#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/116149134615058680#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/116149134615058680#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/116149134615058680#gh-dark-mode-only)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/116149134615058680#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;1](https://indieweb.social/@abraham/116149134615058680#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/116149134615058680#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/116149134615058680#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/116149134615058680#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/116149134615058680#gh-dark-mode-only)
 
 
 ---
@@ -43,4 +43,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/116127764433655227#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/116127764433655227#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/116127764433655227#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/116127764433655227#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/116127764433655227#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/116127764433655227#gh-dark-mode-only)
 
 
-_Last updated Saturday, February 28, 2026 at 4:23 PM UTC._
+_Last updated Saturday, February 28, 2026 at 5:03 PM UTC._
