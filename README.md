@@ -1,5 +1,14 @@
 ## Recent Statuses
 
+> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Thursday, April 2, 2026 at 6:58 PM](https://indieweb.social/@abraham/116336645546754773)
+>
+> IncelCareerEndowment
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/116336645546754773#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/116336645546754773#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/116336645546754773#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/116336645546754773#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/116336645546754773#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/116336645546754773#gh-dark-mode-only)
+
+
+---
+
 > <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Wednesday, April 1, 2026 at 5:36 PM](https://indieweb.social/@abraham/116330658195874159)
 >
 > Trump appeared to have business motive for keeping classified documents, Jack Smith findshttps://www.ms.now/news/trump-classified-documents-smith-investigation-business-motive
@@ -34,13 +43,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/116320120551315828#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/116320120551315828#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;2](https://indieweb.social/@abraham/116320120551315828#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;2](https://indieweb.social/@abraham/116320120551315828#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/116320120551315828#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/116320120551315828#gh-dark-mode-only)
 
 
----
-
-> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Monday, March 30, 2026 at 8:54 PM](https://indieweb.social/@abraham/116320113215370628)
->
-> Decompiling the White House&#39;s New Apphttps://blog.thereallo.dev/blog/decompiling-the-white-house-app
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/116320113215370628#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/116320113215370628#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/116320113215370628#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/116320113215370628#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/116320113215370628#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/116320113215370628#gh-dark-mode-only)
-
-
-_Last updated Wednesday, April 1, 2026 at 8:01 PM UTC._
+_Last updated Thursday, April 2, 2026 at 7:21 PM UTC._
