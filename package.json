@@ -30,6 +30,6 @@
     "underscore": "^1.13.8"
   },
   "dependencies": {
-    "masto": "^7.11.1"
+    "masto": "^7.12.0"
   }
 }
