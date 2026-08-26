@@ -1,5 +1,19 @@
 ## Recent Statuses
 
+> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Wednesday, August 26, 2026 at 6:35 PM](https://indieweb.social/@abraham/117163249910104516)
+>
+> Testing out an opt-in on-device for you page in @meow. it needs a lot more polish but i see potential.
+>
+
+> | Image 1 | Image 2 | Image 3 |
+> | --- | --- | --- |
+> | ![App settings screen showing sliders to adjust timeline sources and signals.](https://cdn.masto.host/indiewebsocial/media_attachments/files/117/163/243/942/957/256/original/7c8f11894b334078.jpeg) | ![App screenshot displaying ranking details and engagement signals for a social media post.](https://cdn.masto.host/indiewebsocial/media_attachments/files/117/163/244/188/548/824/original/7a6624865bd33c68.jpeg) | ![Screenshot of a Mastodon social media feed featuring posts by Alex Russell and War and Peas.](https://cdn.masto.host/indiewebsocial/media_attachments/files/117/163/244/612/831/081/original/e1260e3f0adf222d.jpeg) |
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/117163249910104516#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/117163249910104516#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/117163249910104516#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/117163249910104516#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/117163249910104516#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/117163249910104516#gh-dark-mode-only)
+
+
+---
+
 > <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Saturday, August 22, 2026 at 2:54 PM](https://indieweb.social/@abraham/117139731047906518)
 >
 > Testing out a new profile page in @meow
@@ -36,13 +50,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/117128992988994405#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/117128992988994405#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;3](https://indieweb.social/@abraham/117128992988994405#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;3](https://indieweb.social/@abraham/117128992988994405#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;3](https://indieweb.social/@abraham/117128992988994405#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;3](https://indieweb.social/@abraham/117128992988994405#gh-dark-mode-only)
 
 
----
-
-> <a href="https://indieweb.social/@abraham"><img alt="Abraham Williams's avatar" src="https://cdn.masto.host/indiewebsocial/accounts/avatars/109/292/540/382/343/163/original/d00f2e03ce9c85b1.jpg" height="24" width="24" ></a> [Abraham Williams](https://indieweb.social/@abraham) [@abraham](https://indieweb.social/@abraham) [Thursday, August 20, 2026 at 5:21 PM](https://indieweb.social/@abraham/117128984888782830)
->
-> Mastodon 4.7 https://blog.joinmastodon.org/2026/08/mastodon-4.7/
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/117128984888782830#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/117128984888782830#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/117128984888782830#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/117128984888782830#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")](https://indieweb.social/@abraham/117128984888782830#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")](https://indieweb.social/@abraham/117128984888782830#gh-dark-mode-only)
-
-
-_Last updated Tuesday, August 25, 2026 at 2:32 PM UTC._
+_Last updated Wednesday, August 26, 2026 at 6:36 PM UTC._
