@@ -4,7 +4,7 @@
 >
 > Tesla announces plan to sell slightly fewer Cybertrucks
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;2](https://indieweb.social/@abraham/117571619702861606#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;2](https://indieweb.social/@abraham/117571619702861606#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;13](https://indieweb.social/@abraham/117571619702861606#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;13](https://indieweb.social/@abraham/117571619702861606#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;32](https://indieweb.social/@abraham/117571619702861606#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;32](https://indieweb.social/@abraham/117571619702861606#gh-dark-mode-only)
+> [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")&ensp;2](https://indieweb.social/@abraham/117571619702861606#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")&ensp;2](https://indieweb.social/@abraham/117571619702861606#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")&ensp;13](https://indieweb.social/@abraham/117571619702861606#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")&ensp;13](https://indieweb.social/@abraham/117571619702861606#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;33](https://indieweb.social/@abraham/117571619702861606#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;33](https://indieweb.social/@abraham/117571619702861606#gh-dark-mode-only)
 
 
 ---
@@ -45,4 +45,4 @@
 > [![Reply](./images/reply_light.svg#gh-light-mode-only "Reply")](https://indieweb.social/@abraham/117536512389608970#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only "Reply")](https://indieweb.social/@abraham/117536512389608970#gh-dark-mode-only)&emsp;[![Boost](./images/retweet_light.svg#gh-light-mode-only "Boost")](https://indieweb.social/@abraham/117536512389608970#gh-light-mode-only)[![Boost](./images/retweet.svg#gh-dark-mode-only "Boost")](https://indieweb.social/@abraham/117536512389608970#gh-dark-mode-only)&emsp;[![Favorite](./images/like_light.svg#gh-light-mode-only "Favorite")&ensp;2](https://indieweb.social/@abraham/117536512389608970#gh-light-mode-only)[![Favorite](./images/like.svg#gh-dark-mode-only "Favorite")&ensp;2](https://indieweb.social/@abraham/117536512389608970#gh-dark-mode-only)
 
 
-_Last updated Saturday, November 7, 2026 at 2:19 AM UTC._
+_Last updated Saturday, November 7, 2026 at 2:32 AM UTC._
